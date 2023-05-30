@@ -30,7 +30,7 @@ function About() {
             </p>
             <br />
             <p>
-            take a look at <span>our services</span> or if you want <span>here is some reviews about us</span>, feel free to do what you want ;).
+            take a look at <span style={{textDecoration:'underline'}}>our services</span> or if you want <span style={{textDecoration:'underline'}}>here is some reviews about us</span>, feel free to do what you want ;).
             </p>
         </div>
         <br />
