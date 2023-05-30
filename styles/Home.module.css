@@ -60,10 +60,15 @@
 .navBar a {
   color: white;
   text-decoration: none;
-  transition: 0.4s;
+
 }
 
-.navBar a:hover {
+.navBar h4 {
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.navBar h4:hover {
   color: #5ada58;
 }
 

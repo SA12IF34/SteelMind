@@ -2,7 +2,7 @@
     width: 100%;
     min-height: 100vh;
     height: max-content;
-    background-image: linear-gradient(to bottom, #5ada58 10%, white 30%);
+    background-image: linear-gradient(to bottom, #5ada58 10%, white 25%);
 }
 
 .main {
@@ -35,11 +35,11 @@
 }
 
 .service {
-    width: 40%;
+    width: 35%;
     min-width: 330px;
-    height: calc(40vw / 2);
+    height: calc(30vw / 2);
     background-color: #64e262;
-    border: 3px solid #4f0686;
+    border: 2px solid #4f0686;
     border-radius: 25px;
     margin: 15px;
     position: relative;
@@ -62,6 +62,6 @@
 
 @media screen and (max-width: 650px) {
     .root {
-        background-image: linear-gradient(to bottom, #5ada58 10%, white 50%);
+        background-image: linear-gradient(to bottom, #5ada58 10%, white 35%);
     }
 }

@@ -21,14 +21,10 @@ function Header() {
                     </Link>
                 </li>
                 <li>
-                    <Link href={'/donate'} passHref>
-                        <h4>donate</h4>
-                    </Link>
+                    <h4>donate</h4>
                 </li>
                 <li>
-                    <Link href={'/work'} passHref>
-                        <h4>work with us</h4>
-                    </Link>
+                    <h4>work with us</h4>
                 </li>
             </ul>
             <ul className={styles.account}>
@@ -38,9 +34,7 @@ function Header() {
                     </Link>
                 </li>
                 <li>
-                    <Link href={'/signup'} passHref>
-                        <h4>create account</h4>
-                    </Link>
+                    <h4>create account</h4>
                 </li>
             </ul>
         </nav>
