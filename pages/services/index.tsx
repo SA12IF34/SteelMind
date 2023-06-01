@@ -30,9 +30,6 @@ function Services() {
             <h1>
                 Here are our services
             </h1>
-            <h3>
-                Go to Contact . 
-            </h3>
             <br />
             <br />
             <div className={styles.services}>
