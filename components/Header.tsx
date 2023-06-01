@@ -12,7 +12,7 @@ function Header() {
             <ul className={styles.navigate}>
                 <li>
                     <Link href={'/services'} passHref>
-                        <h4>services & contact</h4>
+                        <h4>services</h4>
                     </Link>
                 </li>
                 <li>
